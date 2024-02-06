@@ -1,1 +1,8 @@
+.card-container {
+    margin: 15%;
+    margin-top: 0%;
+}
 
+.card-container img {
+    width: 50%;
+}
